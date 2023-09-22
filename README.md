@@ -33,8 +33,8 @@ Set Up MongoDB:
     
     Install MongoDB if you haven't already.
     Create a MongoDB database and configure the connection settings in the project.
-    after installing 
-run: mongod mongosh in cmd 
+    after installing run: mongod mongosh in cmd
+ 
 
 Run the Application:
 
