@@ -39,7 +39,7 @@ Run the Application:
 
 bash
 
-npm start
+nodemon app.js
 
 Access the Website:
 Open your web browser and go to http://localhost:3000 to view the website.
