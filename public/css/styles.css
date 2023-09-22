@@ -1,0 +1,64 @@
+html {
+  min-height: 100%;
+  position: relative;
+  background-color: #111; /* Dark background color */
+  color: #fff; /* Light text color */
+}
+
+.container-fluid {
+  padding-top: 70px;
+  padding-bottom: 70px;
+  background-color: #111; /* Dark background color */
+}
+
+.navbar {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border: 0;
+  border-radius: 0;
+  margin-bottom: 0;
+  font-size: 12px;
+  letter-spacing: 5px;
+  background-color: #333; /* Darker background color for the navbar */
+  color: #fff; /* Light text color */
+}
+
+.navbar-nav li a:hover {
+  color: #1abc9c !important;
+}
+
+/* Button Style */
+.button {
+  background-color: #1abc9c; /* Button background color */
+  color: #fff; /* Button text color */
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+/* Hover effect for the button */
+.button:hover {
+  background-color: #16a085; /* Change to your desired hover color */
+}
+
+.footer-padding {
+  padding-bottom: 60px;
+}
+
+.footer {
+  position: absolute;
+  text-align: center;
+  bottom: 0;
+  width: 100%;
+  height: 60px;
+  background-color: #333; /* Darker background color for the footer */
+  color: #fff; /* Light text color */
+}
+
+.footer p {
+  margin-top: 25px;
+  font-size: 12px;
+  color: #fff;
+}
