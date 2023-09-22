@@ -1,4 +1,3 @@
-# Blog-WebSite
 # Blog Website Project
 
 Welcome to the repository for our Blog Website project! This project is built using a stack of modern web technologies including **EJS**, **CSS**, **Express.js**, **Node.js**, and **MongoDB**. Below, you'll find an overview of our project and its goals.
@@ -31,9 +30,11 @@ cd Blog-WebSite
 npm install
 
 Set Up MongoDB:
-
+    
     Install MongoDB if you haven't already.
     Create a MongoDB database and configure the connection settings in the project.
+    after installing 
+run: mongod mongosh in cmd 
 
 Run the Application:
 
